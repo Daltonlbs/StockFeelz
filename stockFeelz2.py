@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
-#import pydeck as pdk
 import matplotlib.pyplot as plt
 import investpy as ip
 from datetime import datetime, timedelta
